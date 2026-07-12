@@ -11,11 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Marinda Htoon",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "I am a high school student passionate about cancer biology, immunology, and translational medicine, with a particular interest in understanding how research can improve patient outcomes. Through DREAM-High, I hope to strengthen my computational skills and gain hands-on experience using programming and data science to answer biological questions. I am particularly excited to explore how computational biology can reveal patterns in cancer genomic data and contribute to discoveries that improve patient care.",
 
   /*
   Optional photo:
@@ -25,7 +25,7 @@ const studentProfile = {
 
   If you do not want to use a photo, leave this as an empty string.
   */
-  photo: "",
+  photo: "profile.jpg",
 
   contact: "Contact information available upon request.",
 
@@ -39,7 +39,7 @@ const studentProfile = {
   rpubs: [
     {
       title: "Introduction to R",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/marindahtoon/introtor"
     },
     {
       title: "Finding Patterns with Heatmaps",
@@ -65,7 +65,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/marinda-htoon"
     }
   ]
 };
