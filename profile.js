@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "I am a high school student passionate about cancer biology, immunology, and translational medicine, with a particular interest in understanding how research can improve patient outcomes. Through DREAM-High, I hope to strengthen my computational skills and gain hands-on experience using programming and data science to answer biological questions. I am particularly excited to explore how computational biology can reveal patterns in cancer genomic data and contribute to discoveries that improve patient care.",
+  bio: "I am a high school student researcher passionate about cancer biology, immunology, and translational medicine, with a particular interest in understanding how research can improve outcomes for breast cancer patients. Through DREAM-High, I hope to strengthen my computational skills and gain hands-on experience using programming and data science to answer biological questions and build something meaningful. I am excited to explore how computational biology can reveal patterns in cancer genomic data and contribute to discoveries that improve patient care.",
 
   /*
   Optional photo:
