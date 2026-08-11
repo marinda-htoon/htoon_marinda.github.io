@@ -61,7 +61,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
+    description: "My final project entails an enrichment analysis of the top 50 differentially expressed genes in the cancer cell line MDA-MB-231.",
     url: ""
   },
 
