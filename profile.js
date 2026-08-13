@@ -52,6 +52,9 @@ const studentProfile = {
     {
       title: "Heatmaps with TCGA Breast Cancer Gene Expression Data",
       url: "https://rpubs.com/marindahtoon/tcgaexpressiondata"
+    },
+    { title: "Breast Cancer Cell Lines, Cell Motility, and Gene Expression",
+      url: "https://rpubs.com/marindahtoon/bccelllinesmotilityge"
   ],
 
   /*
@@ -61,8 +64,8 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "My final project entails an enrichment analysis of the top 50 differentially expressed genes in the cancer cell line MDA-MB-231.",
-    url: ""
+    description: "My final project entails an enrichment analysis of the top 50 differentially expressed genes in the cancer cell line MDA-MB-231. My presentation highlights my methods, results, conclusions, and the overall biological story of the genes I uncovered in this project.",
+    url: "https://docs.google.com/presentation/d/1-gOpg5Isu1pSYSwg30Y6Z_cFG7UgeW1BwL3lQ-k78D0/edit?usp=sharing"
   },
 
   /*
