@@ -55,6 +55,7 @@ const studentProfile = {
     },
     { title: "Breast Cancer Cell Lines, Cell Motility, and Gene Expression",
       url: "https://rpubs.com/marindahtoon/bccelllinesmotilityge"
+    }
   ],
 
   /*
